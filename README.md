@@ -1,4 +1,4 @@
-# Impacted of rising out of pocket costs of Medicare subsidised primary healthcare services in Australia
+# Impact of rising out of pocket costs of Medicare subsidised primary healthcare services in Australia
 
 This project analyses Medicare primary healthcare services and census datasets in order to gather insights using Python, Excel and Tableau. This project was part of the Career Foundary Online Data Analyst Course.
 
