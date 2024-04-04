@@ -23,7 +23,7 @@ b.	How has usage per person and costs of the service changed?
 - [2019-2021](https://www.aihw.gov.au/reports/primary-health-care/medicare-subsidised-health-local-areas-2021-22/data)
 - [2013–2019](https://www.aihw.gov.au/reports/primary-health-care/medicare-subsidised-health-local-areas-2019/data)
 
-Census 2011, 2016 and 2021 Datasets:
+**Census 2011, 2016 and 2021 Datasets:**
 - [Australian Bureau of Statistics Table Builder](https://www.abs.gov.au/statistics/microdata-tablebuilder/tablebuilder)
 
 ## Tools
